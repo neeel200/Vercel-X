@@ -1,4 +1,4 @@
-# A Backend service for Frontend Hosting 
+# A Backend service for Hosting Frontend sites
 
 ## Overview:
 Developed a backend system tailored for hosting services similar to Vercel and Netlify, built from the ground up to ensure scalability and efficiency.
